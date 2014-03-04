@@ -1,0 +1,4 @@
+Paxos
+=====
+
+For project purposes
